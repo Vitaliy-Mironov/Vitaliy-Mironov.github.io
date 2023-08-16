@@ -1,1 +1,1 @@
-Follow me: https://Vitaliy-Mironov.github.io/
+The address is: https://Vitaliy-Mironov.github.io/
