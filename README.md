@@ -1,1 +1,1 @@
-Follow me: http://Vitaliy-Mironov.github.io/
+Follow me: https://Vitaliy-Mironov.github.io/
