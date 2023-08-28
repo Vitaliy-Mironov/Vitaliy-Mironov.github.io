@@ -1,5 +1,6 @@
 lang: ru-RU
 encoding: utf-8
+domain: vitaliy-mironov.github.io
 url: https://vitaliy-mironov.github.io
 permalink: pretty
 highlighter: rouge
